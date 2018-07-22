@@ -1,0 +1,23 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+article.post {
+    div.post-content {
+        h2 {
+            clear: both;
+        }
+        ul {
+            li { margin-bottom: .5em; }
+        }
+
+        .intro-img {
+            margin-left: 4em;
+        }
+        .pull-right {
+            display: block;
+            float: right;
+        }
+    }
+}
