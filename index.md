@@ -14,11 +14,14 @@ I'm a Computer Science PhD candidate at RMIT Univeristy working with
 centered within the intersection of Information Retrieval, Machine Learning and
 Efficient Algorithms.
 
-[pepper]: http://culpepper.io
-[croft]: http://ciir.cs.umass.edu/croft
+[pepper]: https://culpepper.io
+[croft]: https://ciir.cs.umass.edu/croft
 
 ## Publications
 
+* L. Gallagher, R-C. Chen, R. Blanco, and J. S. Culpepper. 2019. Joint
+  Optimization of Cascade Ranking Models. *Proceedings of the 12th
+  International Conference on Web Search and Data Mining* (WSDM 2019). To appear.
 * R. Benham, J. S. Culpepper, L. Gallagher, X. Lu, and J. Mackenzie. 2018. [Towards
   Efficient and Effective Query Variant Generation][bcg+18desires].
   *Proceedings of the 1st International Design of Experimental Search &
@@ -38,6 +41,14 @@ Efficient Algorithms.
 [bgm+17trec]: {{ "/assets/bgm+17trec.pdf" | absolute_url }}
 [gmb+17ntcir]: {{ "/assets/gmb+17ntcir.pdf" | absolute_url }}
 [cgbc17sigir]: {{ "/assets/cgbc17sigir.pdf" | absolute_url }}
+
+## Software
+
+* [Polyfuse][polyfuse]
+* [Pairwise t-test][pairwise] for humans
+
+[polyfuse]: https://github.com/rmit-ir/polyfuse
+[pairwise]: https://github.com/lgrz/pairwise-ttest
 
 ## Teaching
 
