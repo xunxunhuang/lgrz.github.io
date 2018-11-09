@@ -22,6 +22,9 @@ Efficient Algorithms.
 * L. Gallagher, R-C. Chen, R. Blanco, and J. S. Culpepper. 2019. Joint
   Optimization of Cascade Ranking Models. *Proceedings of the 12th
   International Conference on Web Search and Data Mining* (WSDM 2019). To appear.
+* R. Benham, L. Gallagher, J. Mackenzie, B. Liu, X. Lu, F. Scholer, A. Moffat,
+  and J. S. Culpepper. [RMIT at the TREC CORE Track][bgm+18trec]. *Proceedings
+  of the 27th Text REtrieval Conference* (TREC 2018).
 * R. Benham, J. S. Culpepper, L. Gallagher, X. Lu, and J. Mackenzie. 2018. [Towards
   Efficient and Effective Query Variant Generation][bcg+18desires].
   *Proceedings of the 1st International Design of Experimental Search &
@@ -37,6 +40,7 @@ Efficient Algorithms.
   *Proceedings of the 40th International ACM SIGIR Conference on Research and
   Development in Information Retrieval* (SIGIR '17). Pages 445-454.
 
+[bgm+18trec]: {{ "/assets/bgm+18trec.pdf" | absolute_url }}
 [bcg+18desires]: {{ "/assets/bcg+18desires.pdf" | absolute_url }}
 [bgm+17trec]: {{ "/assets/bgm+17trec.pdf" | absolute_url }}
 [gmb+17ntcir]: {{ "/assets/gmb+17ntcir.pdf" | absolute_url }}
