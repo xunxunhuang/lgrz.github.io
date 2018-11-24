@@ -31,7 +31,7 @@ Efficient Algorithms.
 * R. Benham, J. S. Culpepper, L. Gallagher, X. Lu, and J. Mackenzie. [Towards
   Efficient and Effective Query Variant Generation][bcg+18desires].
   *Proceedings of the 1st International Design of Experimental Search &
-  Information Retrieval Systems* (DESIRES 2018). Pages 62-67.
+  Information Retrieval Systems* (DESIRES 2018).
 * R. Benham, L. Gallagher, J. Mackenzie, T. T. Damessie, R-C. Chen, F. Scholer,
   A. Moffat, and J. S. Culpepper. [RMIT at the TREC CORE Track][bgm+17trec]. *Proceedings of
   the 26th Text REtrieval Conference* (TREC 2017).
@@ -41,7 +41,7 @@ Efficient Algorithms.
 * R-C. Chen, L. Gallagher, R. Blanco, and J. S. Culpepper. [Efficient
   Cost-Aware Cascade Ranking in Multi-Stage Retrieval][cgbc17sigir].
   *Proceedings of the 40th International ACM SIGIR Conference on Research and
-  Development in Information Retrieval* (SIGIR 2017). Pages 445-454.
+  Development in Information Retrieval* (SIGIR 2017).
 
 [gmc18adcs]: {{ "/assets/gmc18adcs.pdf" | absolute_url }}
 [bgm+18trec]: {{ "/assets/bgm+18trec.pdf" | absolute_url }}
