@@ -9,7 +9,7 @@ layout: page
 ![lukeg]({{ "/assets/lg.jpg" | absolute_url }})
 </div>
 
-I'm a Computer Science PhD candidate at RMIT Univeristy working with
+I'm a Computer Science PhD candidate at RMIT University working with
 [J. Shane Culpepper][pepper] and [W. Bruce Croft][croft]. My research is
 centered within the intersection of Information Retrieval, Machine Learning and
 Efficient Algorithms.
