@@ -17,7 +17,7 @@ Efficient Algorithms.
 [pepper]: https://culpepper.io
 [croft]: https://ciir.cs.umass.edu/croft
 
-## Publications
+### Publications
 
 * L. Gallagher, R-C. Chen, R. Blanco, and J. S. Culpepper. [Joint
   Optimization of Cascade Ranking Models][gcbc19wsdm]. *Proceedings of the 12th
@@ -51,7 +51,7 @@ Efficient Algorithms.
 [gmb+17ntcir]: {{ "/assets/gmb+17ntcir.pdf" | absolute_url }}
 [cgbc17sigir]: {{ "/assets/cgbc17sigir.pdf" | absolute_url }}
 
-## Software
+### Software
 
 * [Polyfuse][polyfuse]
 * [Pairwise t-test][pairwise] for humans
@@ -59,7 +59,7 @@ Efficient Algorithms.
 [polyfuse]: https://github.com/rmit-ir/polyfuse
 [pairwise]: https://github.com/lgrz/pairwise-ttest
 
-## Teaching
+### Teaching
 
 Teaching duties include tutor/lab assistant roles for the following courses:
 
