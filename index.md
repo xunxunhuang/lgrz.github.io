@@ -61,7 +61,7 @@ Efficient Algorithms.
 
 ### Teaching
 
-Teaching duties include tutor/lab assistant roles for the following courses:
+Teaching duties include tutor and lab assistant roles for the following courses:
 
 * COSC1107 Computing Theory
 * COSC2406 Database Systems
