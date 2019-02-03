@@ -21,7 +21,7 @@ Efficient Algorithms.
 
 * L. Gallagher, R-C. Chen, R. Blanco, and J. S. Culpepper. [Joint
   Optimization of Cascade Ranking Models][gcbc19wsdm]. *Proceedings of the 12th
-  International Conference on Web Search and Data Mining* (WSDM 2019). To appear.
+  International Conference on Web Search and Data Mining* (WSDM 2019).
 * L. Gallagher, J. Mackenzie, J. S. Culpepper. [Revisiting Spam Filtering
   in Web Search][gmc18adcs]. *Proceedings of the 23rd Australasian Document Computing
   Symposium* (ADCS 2018).
