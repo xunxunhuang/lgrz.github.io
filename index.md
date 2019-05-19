@@ -51,6 +51,11 @@ Efficient Algorithms.
 [gmb+17ntcir]: {{ "/assets/gmb+17ntcir.pdf" | absolute_url }}
 [cgbc17sigir]: {{ "/assets/cgbc17sigir.pdf" | absolute_url }}
 
+### Professional Activities
+
+* CIKM 2018 PC Member
+* ADCS 2018 Reviewer
+
 ### Software
 
 * [Polyfuse][polyfuse]
