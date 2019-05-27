@@ -4,7 +4,7 @@ layout: page
 permalink: /py/svm/
 ---
 
-## SVMLight
+### SVMLight
 
 Loading SVMLight files in Python via `sklearn` is rather slow. Cache all the things:
 
