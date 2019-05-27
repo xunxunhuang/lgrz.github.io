@@ -1,5 +1,7 @@
 ---
+title: Py
 layout: page
+permalink: /py/svm/
 ---
 
 ## SVMLight
