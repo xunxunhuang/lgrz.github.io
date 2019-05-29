@@ -58,9 +58,11 @@ Efficient Algorithms.
 
 ### Software
 
-* [Polyfuse][polyfuse]
-* [Pairwise t-test][pairwise] for humans
+* [Warpse][warpse] - A WARC parser in Rust.
+* [Polyfuse][polyfuse] - Popular fusion techniques for TREC run files.
+* [Pairwise t-test][pairwise] - Scripts for pairwise t-test with R.
 
+[warpse]: https://github.com/lgrz/warpse
 [polyfuse]: https://github.com/rmit-ir/polyfuse
 [pairwise]: https://github.com/lgrz/pairwise-ttest
 
