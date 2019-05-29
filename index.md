@@ -53,7 +53,7 @@ Efficient Algorithms.
 
 ### Professional Activities
 
-* CIKM 2018 PC Member
+* CIKM 2019 PC Member
 * ADCS 2018 Reviewer
 
 ### Software
