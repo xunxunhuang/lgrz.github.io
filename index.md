@@ -62,7 +62,7 @@ Efficient Algorithms.
 * [Polyfuse][polyfuse] - Popular fusion techniques for TREC run files.
 * [Pairwise t-test][pairwise] - Scripts for pairwise t-test with R.
 
-[warpse]: https://github.com/lgrz/warpse
+[polystem]: https://github.com/lgrz/polystem
 [polyfuse]: https://github.com/rmit-ir/polyfuse
 [pairwise]: https://github.com/lgrz/pairwise-ttest
 
@@ -73,6 +73,7 @@ courses.
 
 #### 2019
 
+* ISYS1079 Information Retrieval
 * COSC2406 Database Systems
 
 #### 2018
