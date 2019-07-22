@@ -58,7 +58,7 @@ Efficient Algorithms.
 
 ### Software
 
-* [Warpse][warpse] - A WARC parser in Rust.
+* [Polystem][polystem] - A stemming library in Rust.
 * [Polyfuse][polyfuse] - Popular fusion techniques for TREC run files.
 * [Pairwise t-test][pairwise] - Scripts for pairwise t-test with R.
 
