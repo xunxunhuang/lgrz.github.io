@@ -25,6 +25,21 @@ class SvmLightCache:
 {% endhighlight %}
 
 
+### Dirty Little Secret
+
+In Python 2, there was a problem known as a [dirty little secret][dirty]:
+
+{% highlight python %}
+x = 'before'
+a = [x for x in 1, 2, 3]
+print x # this prints '3', not 'before'
+{% endhighlight %}
+
+this behaviour changed in Python 3 so that the loop control variable no longer
+leaks out of the list comprehension scope.
+
+[dirty]: http://python-history.blogspot.com/2010/06/from-list-comprehensions-to-generator.html
+
 ### Datetime
 
 Python's default constructor does not include timezone information and hence
