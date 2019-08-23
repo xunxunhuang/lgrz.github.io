@@ -117,3 +117,12 @@ import numpy as np
 a = np.arange(6).reshape((3,2))
 b = np.c_[np.ones(3), a, np.zeros(3)]
 {% endhighlight %}
+
+
+### Jupyter Notebook
+
+Prevent Lynx from mangling the keyboard on remote servers:
+
+{% highlight bash %}
+BROWSER=echo jupyter notebook
+{% endhighlight %}
