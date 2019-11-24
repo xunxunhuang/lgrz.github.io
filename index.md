@@ -53,6 +53,7 @@ Efficient Algorithms.
 
 ### Professional Activities
 
+* ECIR 2020 PC Member
 * CIKM 2019 PC Member
 * NTCIR 2019 PC Member
 * ADCS 2018 Reviewer
