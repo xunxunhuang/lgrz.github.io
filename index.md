@@ -10,12 +10,13 @@ layout: page
 </div>
 
 I'm a Computer Science PhD candidate at RMIT University working with
-[J. Shane Culpepper][pepper] and [W. Bruce Croft][croft]. My research is
+[J. Shane Culpepper][pepper] and [B. Barla Cambazoglu][barla]. My research is
 centered within the intersection of Information Retrieval, Machine Learning and
 Efficient Algorithms.
 
 [pepper]: https://culpepper.io
 [croft]: https://ciir.cs.umass.edu/croft
+[barla]: https://scholar.google.com/citations?hl=en&user=iEChWJsAAAAJ
 
 ### Publications
 
