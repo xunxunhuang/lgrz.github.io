@@ -20,6 +20,10 @@ Efficient Algorithms.
 
 ### Publications
 
+* J. Mackenzie, Z. Dai, L. Gallagher and J. Callan. Efficiency Implications of
+  Term Weighting for Passage Retrieval. *Proceedings of the 43rd International
+  ACM SIGIR Conference on Research and Development in Information Retrieval*
+  (SIGIR 2020).
 * L. Gallagher, R-C. Chen, R. Blanco, and J. S. Culpepper. [Joint
   Optimization of Cascade Ranking Models][gcbc19wsdm]. *Proceedings of the 12th
   International Conference on Web Search and Data Mining* (WSDM 2019).
