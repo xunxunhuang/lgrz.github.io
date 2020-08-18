@@ -52,6 +52,7 @@ Efficient Algorithms.
   *Proceedings of the 40th International ACM SIGIR Conference on Research and
   Development in Information Retrieval* (SIGIR 2017).
 
+[gm+20cikm]: {{ "/assets/gm+20cikm.pdf" | absolute_url }}
 [mdgc20sigir]: {{ "/assets/mdgc20sigir.pdf" | absolute_url }}
 [gcbc19wsdm]: {{ "/assets/gcbc19wsdm.pdf" | absolute_url }}
 [gmc18adcs]: {{ "/assets/gmc18adcs.pdf" | absolute_url }}
