@@ -20,6 +20,10 @@ Efficient Algorithms.
 
 ### Publications
 
+* L. Gallagher, A. Mallia, J. S. Culpepper, T. Suel and B. B. Cambazoglu.
+  [Feature Extraction for Large-Scale Text Collections][gm+20cikm]. *Proceedings of the 29th
+  ACM International Conference on Information and Knowledge Management* (CIKM
+  2020).
 * J. Mackenzie, Z. Dai, L. Gallagher and J. Callan. [Efficiency Implications of
   Term Weighting for Passage Retrieval][mdgc20sigir]. *Proceedings of the 43rd
   International ACM SIGIR Conference on Research and Development in Information
