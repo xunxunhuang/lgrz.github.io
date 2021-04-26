@@ -9,16 +9,23 @@ layout: page
 ![lukeg]({{ "/assets/lg.jpg" | absolute_url }})
 </div>
 
-I'm a Computer Science PhD candidate at RMIT University working with
-[J. Shane Culpepper][pepper] and [B. Barla Cambazoglu][barla]. My research is
-centered within the intersection of Information Retrieval, Machine Learning and
-Efficient Algorithms.
+### {{site.title}}
+
+PhD student of computer science at RMIT University.
+
+The theme of my work investigates the efficiency-effectiveness trade-offs in
+machine learning algorithms for ranking and search.
+
+One take on this problem can be given by the following question:
+
+<em>How can computational costs be reduced while maintaining
+satisfactory effectiveness in feature-based learning algorithms?</em>
 
 [pepper]: https://culpepper.io
 [croft]: https://ciir.cs.umass.edu/croft
 [barla]: https://scholar.google.com/citations?hl=en&user=iEChWJsAAAAJ
 
-### Publications
+#### Publications
 
 * L. Gallagher, A. Mallia, J. S. Culpepper, T. Suel and B. B. Cambazoglu.
   [Feature Extraction for Large-Scale Text Collections][gm+20cikm]. *Proceedings of the 29th

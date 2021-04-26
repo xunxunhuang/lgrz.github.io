@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 
+main.page-content {
+    padding-top: 0;
+}
 article.post {
     div.post-content {
         h2 {
